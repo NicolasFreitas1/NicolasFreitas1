@@ -1,4 +1,4 @@
-## Olá, me chamo Nicolas, estou fazendo faculdade de engenharia de sofware. Atualmente estou estudando typescript, node, react, e algumas bibliotecas para a criação de API's
+## Olá, me chamo Nicolas, estou fazendo faculdade de engenharia de sofware. Atualmente estou estudando typescript, node, react, nestJS e alguns frameworks para a criação de API's
 <br>
 <hr>
 <br>
