@@ -41,7 +41,7 @@ SOLID, Clean Architecture, DDD, Testes automatizados (Jest, xUnit)
 ## ✉️ Contato
 
 - Email: nicolasandrade.de.freitas@gmail.com  
-- LinkedIn: [linkedin.com/in/nicolas-freitas]([https://linkedin.com/in/nicolasfreitas](https://www.linkedin.com/in/nicolas-freitas-0878ba260/))  
+- LinkedIn: [https://www.linkedin.com/in/nicolas-freitas-0878ba260](https://www.linkedin.com/in/nicolas-freitas-0878ba260/)
 - GitHub: [github.com/NicolasFreitas1](https://github.com/NicolasFreitas1)
 
 ---
